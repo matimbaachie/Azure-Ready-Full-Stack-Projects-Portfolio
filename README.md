@@ -59,15 +59,15 @@ This portfolio contains **10 full-stack applications** built using:
 ## How to Use This Portfolio
 
 1. Browse any of the individual project repositories above.
-2. Each contains:
+2. Each contains(`README.md` with architecture and deployment Steps):
    - Full React frontend with Azure AD login
    - Secure ASP.NET Core API with EF Core
    - SQL Server schema and scripts
-   - `README.md` with architecture and deployment guide
+   
 
 ---
 
-## License
+## Benefits
 
-All projects are open-source and available under the MIT License.
+This projects strengthened my expertise in building secure applications integrated with Azure cloud services.
 
