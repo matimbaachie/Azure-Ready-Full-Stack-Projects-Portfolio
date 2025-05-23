@@ -37,10 +37,10 @@ This portfolio contains **10 full-stack applications** built using:
    Submit, track, and approve leave requests integrated with working calendars.
 
 9. **[Customer Feeback Plartform](https://github.com/matimbaachie/Customer-Feedback-Platform.git)**  
-   End-to-end hiring pipeline from job posting to interviews and offer letters.
+   Collect, manage, and analyze customer feedback across multiple channels. Supports sentiment tagging, response tracking, and dashboard analytics for continuous service improvement..
 
 10. **[Asset Management System](https://github.com/matimbaachie/Asset-Management-System.git)**  
-   Visual dashboard for managing tasks, deadlines, sprints, and team assignments.
+    Track and manage physical and digital assets across departments. Includes asset lifecycle management, assignment history, maintenance scheduling, and audit reporting.
 
 ---
 
