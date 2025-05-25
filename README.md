@@ -12,7 +12,7 @@ This portfolio contains **10 full-stack applications** built using:
 
 ## Projects
 
-1. **[Employee Onboarding Portal](https://github.com/matimbaachie/-E-learning-Platform-.git)**  
+1. **[Employee Onboarding Portal](https://github.com/matimbaachie/Employee-Onboarding-Portal.git)**  
    Automates onboarding with document uploads, status tracking, and manager approvals.
 
 2. **[Expense Tracker](https://github.com/matimbaachie/Expense-Tracker.git)**  
